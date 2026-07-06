@@ -33,9 +33,7 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 <br>
 城北
 <br>
-大月
-<br>
-河口湖
+樽見
 <br>
 ｼﾅ鉄（ｼﾅﾉ・北ｼﾅﾉ）
 <br>
@@ -123,7 +121,9 @@ JR空港
 <br>
 竹鼻（竹鼻・羽島）
 <br>
-樽見
+大月
+<br>
+河口湖
 <br>
 西濃
 <br>

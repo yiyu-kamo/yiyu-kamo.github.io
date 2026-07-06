@@ -29,18 +29,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 ## 文字の追加
 「こんなスクロール見つけた」「こんな停車駅あった」「こんな表示ある」といったものがありましたら、その表示を**LED一つ一つまできちんと見えるように**撮影し、Twitter`@hosoiri_cg_`にDMでお送りください。
 ## 編集者メモ
-篠ノ井
-<br>
-北越
-<br>
-越美（JR・長良川）
-<br>
-舞鶴・小浜
-<br>
-湖西
-<br>
-東海道（国府津～神戸・大垣～赤坂）
-<br>
 太多
 <br>
 中央（甲府～名古屋）
@@ -76,10 +64,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 参宮
 <br>
 伊勢
-<br>
-北方貨
-<br>
-梅田貨
 <br>
 山陰（京都～綾部）
 <br>

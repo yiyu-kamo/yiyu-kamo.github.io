@@ -377,13 +377,16 @@ h1, h2, h3, h4 {
 @media (max-width: 768px) {
   .home-news { padding: 24px 4%; }
   .home-news-list ul li {
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
   .home-news-list .date {
+    width: auto;
     order: 1;
   }
   .home-news-list .category {
+    width: auto;
     order: 2;
   }
   .home-news-list .news-title {

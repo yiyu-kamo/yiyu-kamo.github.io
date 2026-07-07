@@ -313,7 +313,7 @@ h1, h2, h3, h4 {
 .home-news-nav li {
   margin-right: 8px;
 }
-.home-news-nav li a {
+.home-news-nav li button {
   display: block;
   padding: 10px 16px;
   font-size: 13px;
@@ -321,10 +321,10 @@ h1, h2, h3, h4 {
   border-bottom: 3px solid transparent;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
-.home-news-nav li a:hover {
+.home-news-nav li button:hover {
   color: var(--color-btn-blue);
 }
-.home-news-nav li.current a {
+.home-news-nav li.current button {
   color: var(--color-btn-blue);
   border-bottom-color: var(--color-btn-blue);
   font-weight: 700;

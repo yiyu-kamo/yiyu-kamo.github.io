@@ -45,7 +45,6 @@ body {
 }
 @media (max-width: 768px) {
   #container { min-width: inherit; }
-  body { font-size: 56px; }
 }
 .box {
   width: 1000px;

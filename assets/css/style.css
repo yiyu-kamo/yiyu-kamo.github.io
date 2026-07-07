@@ -38,6 +38,7 @@ body {
 }
 @media (max-width: 768px) {
   #container { min-width: inherit; }
+  body { font-size: 16px; }
 }
 .box {
   width: 1000px;
@@ -473,6 +474,11 @@ h1, h2, h3, h4 {
   .scroll-nav li:last-child { border-bottom: none; }
   .table th { width: auto; display: block; }
   .table td { display: block; }
+  #main h1 { font-size: 1.8em; }
+  #main h2,
+  .second-title { font-size: 1.4em; }
+  #main h3 { font-size: 1.2em; }
+  #main h4 { font-size: 1.05em; }
 }
 .pagetop {
   position: fixed;

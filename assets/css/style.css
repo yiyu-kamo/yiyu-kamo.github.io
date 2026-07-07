@@ -288,20 +288,6 @@ h1, h2, h3, h4 {
   padding-left: 16px;
   border-left: 6px solid var(--color-h2);
 }
-.home-news .btn.button {
-  position: absolute;
-  top: 32px;
-  right: 32px;
-}
-.home-news .btn.button a {
-  display: inline-block;
-  padding: 8px 20px;
-  font-size: 13px;
-  color: var(--color-btn-blue);
-  border: 2px solid var(--color-btn-blue);
-  transition: opacity 0.15s ease;
-}
-.home-news .btn.button a:hover { opacity: 0.8; }
 .home-news-list {
   max-height: 365px;
   overflow-y: auto;

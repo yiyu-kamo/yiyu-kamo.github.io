@@ -302,33 +302,6 @@ h1, h2, h3, h4 {
   transition: opacity 0.15s ease;
 }
 .home-news .btn.button a:hover { opacity: 0.8; }
-.home-news-nav {
-  margin-bottom: 20px;
-  border-bottom: solid 1px #d3d3d3;
-}
-.home-news-nav ul {
-  display: flex;
-  flex-wrap: wrap;
-}
-.home-news-nav li {
-  margin-right: 8px;
-}
-.home-news-nav li button {
-  display: block;
-  padding: 10px 16px;
-  font-size: 13px;
-  color: var(--color-text);
-  border-bottom: 3px solid transparent;
-  transition: color 0.15s ease, border-color 0.15s ease;
-}
-.home-news-nav li button:hover {
-  color: var(--color-btn-blue);
-}
-.home-news-nav li.current button {
-  color: var(--color-btn-blue);
-  border-bottom-color: var(--color-btn-blue);
-  font-weight: 700;
-}
 .home-news-list {
   max-height: 365px;
   overflow-y: auto;

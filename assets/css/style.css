@@ -317,10 +317,10 @@ h1, h2, h3, h4 {
   text-align: center;
   color: #ffffff;
 }
-.home-news-list .category.inform { background-color: var(--color-btn-blue); }
-.home-news-list .category.event  { background-color: var(--color-h1); }
-.home-news-list .category.traffic{ background-color: var(--color-h4); }
-.home-news-list .category.ticket { background-color: var(--color-h3); }
+.home-news-list .category.inform  { background-color: var(--color-h1); }
+.home-news-list .category.contents{ background-color: var(--color-h2); }
+.home-news-list .category.notice  { background-color: var(--color-h3); }
+.home-news-list .category.other   { background-color: var(--color-h4); }
 .home-news-list .news-title {
   flex: 1;
   font-size: 14px;

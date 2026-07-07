@@ -359,7 +359,6 @@ h1, h2, h3, h4 {
 }
 @media (max-width: 768px) {
   .home-news { padding: 24px 4%; }
-  .home-news .btn.button { position: static; margin-bottom: 16px; display: inline-block; }
   .home-news-list ul li { flex-wrap: wrap; }
   .home-news-list .news-title { width: 100%; order: 3; }
 }

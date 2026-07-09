@@ -29,18 +29,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 ## 文字の追加
 「こんなスクロール見つけた」「こんな停車駅あった」「こんな表示ある」といったものがありましたら、その表示を**LED一つ一つまできちんと見えるように**撮影し、Twitter`@hosoiri_cg_`にDMでお送りください。
 ## 編集者メモ
-越後
-<br>
-弥彦
-<br>
-小海
-<br>
-武豊
-<br>
-関西（JR海・西・大和路）
-<br>
-紀勢（亀山～多気・和歌山～和歌山市）
-<br>
 名松
 <br>
 参宮
@@ -162,5 +150,3 @@ JR空港
 汐見橋
 <br>
 泉北
-<br>
-かつて実際にあった行先

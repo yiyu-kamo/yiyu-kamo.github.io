@@ -29,24 +29,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 ## 文字の追加
 「こんなスクロール見つけた」「こんな停車駅あった」「こんな表示ある」といったものがありましたら、その表示を**LED一つ一つまできちんと見えるように**撮影し、Twitter`@hosoiri_cg_`にDMでお送りください。
 ## 編集者メモ
-嵯峨野観光
-<br>
-草津
-<br>
-御殿場
-<br>
-奈良（奈良・桜井）
-<br>
-ｵｵｻｶ東
-<br>
-東西（東西・片町）
-<br>
-大阪環状
-<br>
-ﾕﾒ咲
-<br>
-ﾅﾆﾜ筋（JR・南海）
-<br>
 阪和
 <br>
 JR空港

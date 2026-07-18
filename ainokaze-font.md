@@ -41,10 +41,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 ## 文字の追加
 「こんなスクロール見つけた」「こんな停車駅あった」「こんな表示ある」といったものがありましたら、その表示を**LED一つ一つまできちんと見えるように**撮影し、Twitter`@hosoiri_cg_`にDMでお送りください。
 ## 編集者メモ
-阪和
-<br>
-JR空港
-<br>
 和歌山
 <br>
 福知山

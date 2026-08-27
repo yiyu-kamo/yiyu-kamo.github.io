@@ -44,7 +44,7 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 自由に変更可能な発車案内シミュレーターなんて作れたらいいけどなーなんて思ってます
 だれか技術力をください。
 ## 編集者メモ
-山陽（神戸～上郡）
+播但
 <br>
 加古川
 <br>

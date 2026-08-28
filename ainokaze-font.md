@@ -44,18 +44,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 自由に変更可能な発車案内シミュレーターなんて作れたらいいけどなーなんて思ってます
 だれか技術力をください。
 ## 編集者メモ
-津島
-<br>
-尾西
-<br>
-犬山（犬山・各務原）
-<br>
-広見
-<br>
-小牧（小牧・上飯田）
-<br>
-竹鼻（竹鼻・羽島）
-<br>
 大月
 <br>
 河口湖

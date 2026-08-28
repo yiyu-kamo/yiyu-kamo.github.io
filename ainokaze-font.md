@@ -44,10 +44,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 自由に変更可能な発車案内シミュレーターなんて作れたらいいけどなーなんて思ってます
 だれか技術力をください。
 ## 編集者メモ
-渥美
-<br>
-ｱｵﾅﾐ
-<br>
 名臨（東港・南港・昭和町・汐見町・東築）
 <br>
 天浜

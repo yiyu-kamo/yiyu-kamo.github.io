@@ -7,4 +7,4 @@ main.png | https://r113.sakura.ne.jp/p/hasshahyo/ainokaze/index.html
 <br>
 ファイル名の頭が[*1]から始まるもの | YouTube @1400yoshi ( Twitter @rk113 )
 ## 注釈
-*1 XUf8qv_DEPM、zUgED8SFNd4、GeuV2k6Kix8、DK1ULFEc0yc、q7rwpvGPqVA、_JYr5FOJVO0
+*1 XUf8qv_DEPM、q7rwpvGPqVA、_JYr5FOJVO0

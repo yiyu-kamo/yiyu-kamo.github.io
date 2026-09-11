@@ -68,7 +68,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 ・列車通過「まもなく列車が通過します」
 ・別番線列車案内「３番線」
 ※列車接近高岡駅「まもなく列車がまいります→」は、「←まもなく列車がまいります」の反転
-※備考「遅れ約３分」は再現
 ※列車位置「→」は「←」の反転
 ### yiyu-kamoが所持しておらず、yoshi223の鉄道館様のシミュレーターから入手したデータ
 ・種別「臨時」
@@ -82,7 +81,6 @@ https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6
 ・停車位置「A2~3」
 ・行先など「福井」「小松」
 ・備考「遅れ約15分」「遅れ約３分」
-※備考「遅れ約３分」は再現
 ## 編集者メモ
 岳南
 <br>

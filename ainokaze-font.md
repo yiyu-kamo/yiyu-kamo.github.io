@@ -38,7 +38,7 @@ Platform３
 ## セリフ
 ### 圧縮されていないもの
 ```
-This train stops at Hayahoshi, Etchu-Yatsuo, Inotani, Hidafurukawa, Takayama, Gero, Mino-Ota, Gifu, Nagoya.This train connects to a train for Itoigawa at Tomari.This train is not in service.2,8002026Maasmy routetabiwa by WESTER122027This train stops at Namerikawa, Uozu, Kurobe, Nyuzen, Tomari.Reserved tickets are required.Please be careful not to board the wrong train.2026927DayThis train stops at Kosugi,Takaoka,Isurugi,Kanazawa9131221JRHP()This train connects to a train for Tomari at Toyama.
+This train stops at Hayahoshi, Etchu-Yatsuo, Inotani, Hidafurukawa, Takayama, Gero, Mino-Ota, Gifu, Nagoya.This train connects to a train for Itoigawa at Tomari.This train is not in service.2,8002026Maasmy routetabiwa by WESTER122027This train stops at Namerikawa, Uozu, Kurobe, Nyuzen, Tomari.Reserved tickets are required.Please be careful not to board the wrong train.2026927DayThis train stops at Kosugi,Takaoka,Isurugi,Kanazawa.9131221JRHP()This train connects to a train for Tomari at Toyama.
 ```
 ### 圧縮されていないもの：並び替え
 ```

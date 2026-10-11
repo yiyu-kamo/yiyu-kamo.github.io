@@ -5,6 +5,6 @@ ainokaze-font/materialsに入っている画像・映像の中で、他の方が
 ## 一覧（追加順）
 main.png | https://r113.sakura.ne.jp/p/hasshahyo/ainokaze/index.html
 <br>
-ファイル名の頭が[*1]から始まるもの | YouTube @1400yoshi ( Twitter @rk113 )
+ファイル名の頭が*1から始まるもの | [YouTube](https://www.youtube.com/@1400yoshi) ( [Twitter](https://x.com/rk113) )
 ## 注釈
 *1 XUf8qv_DEPM、q7rwpvGPqVA、_JYr5FOJVO0

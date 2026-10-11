@@ -1,4 +1,14 @@
 # 発着番線（2026年3月14日改正ダイヤ）
+## 情報源
+[2026年3月14日　ダイヤ改正後の各駅時刻表 | あいの風とやま鉄道株式会社](https://ainokaze.co.jp/22762)
+<br>
+[富山駅　発車時刻表](https://ainokaze.co.jp/wp-content/uploads/2026/03/32ab5cad00516bd1061d7ae353efb10f-1.pdf)
+<br>
+[富山駅（高山線）発車時刻表](https://ainokaze.co.jp/wp-content/uploads/2026/03/97d059bc6fc8582c3dbcc4227bbdf004-1.pdf)
+<br>
+[高岡駅　発車時刻表](https://ainokaze.co.jp/wp-content/uploads/2026/03/32848cfb127f98398514874978e2f08b.pdf)
+<br>
+[高岡駅（城端線）発車時刻表 / 高岡駅（氷見線）発車時刻表](https://ainokaze.co.jp/wp-content/uploads/2026/03/bd10ed32167a08accb42d87203bb3ef7-1.pdf)
 ## 見方
 ### 発車
 #### 富山駅

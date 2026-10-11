@@ -1,5 +1,9 @@
 # 発着番線等（2026年9月おわら風の盆時）
 高山線列車のみ記載します（2026/9/1～3）
+## 情報源
+[富山駅（高山線）発車時刻表](https://ainokaze.co.jp/wp-content/uploads/2026/03/97d059bc6fc8582c3dbcc4227bbdf004-1.pdf)
+<br>
+[令和８年度おわら風の盆期間中における交通事情について](https://www.westjr.co.jp/press/article/2026/08/21/items/260821_00_press_owara_kazenobon.pdf)
 ## 見方
 ### 発車
 ```

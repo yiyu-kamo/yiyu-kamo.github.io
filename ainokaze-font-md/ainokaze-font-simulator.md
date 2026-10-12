@@ -11,6 +11,10 @@
 ・列車案内は発車時刻1分後に更新するものとする
 ・回送・当駅止めは到着10分後に回送発車とする
 ```
+## リンク
+[LED表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/1l4CaGINRfA5h-eQZhPeBIoBdWcFfkjXX)
+[ディスプレイ表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/1siE4h4J9GgEu4SPb_OKyCHo02Kj4GsI6)
+[他資料 - Googleドライブ](https://drive.google.com/drive/folders/1zmWSriERvLzaNwO04_LNtJgirXqiodgI)
 ## 全体
 ```
 ・左から、（矢印） 種別 乗車位置 発車時刻 行先 （備考） （矢印）
@@ -73,8 +77,18 @@
 ・乗車位置はエスカレーターからの近さで決まるものかと思われる
 ・前記から、富山駅は2両がA1~2固定で、高岡駅の場合A1~2の他A2~3も存在する
 ・A2~3は、3番線から発車となる富山方面の列車にのみ適用される可能性がある（2026/10/11現在、確認できているもので3番線発富山方面行き2両の8本中5本がA2~3であり、それ以外の番線ではA2~3は使用されていない）
-・おわら風の盆の開催中は、富山駅1番線に入線する2両はA3~4、4両はA3~6、3番線に入線する2両はA3~4、4両はA2~5になるが、表示器では通常ダイヤのまま表示されており、毎度モニターで列車ごとに表示をしているほか、1&3番線に入線する高山線列車は全て越中八尾方端に停車する
+・高山線は足元の「高山線①～③」（2番線、①には止まらない）
+・おわら風の盆の開催中は、富山駅1番線に入線する2両はA3~4、4両はA3~6、3番線に入線する2両はA3~4、4両はA2~5になるが*1*2*3、表示器では通常ダイヤのまま表示されており、毎度モニターで列車ごとに表示をしているほか、1&3番線に入線する高山線列車は全て越中八尾方端に停車し、乗車位置表示は足元の「おわら風の盆①前～②後」
 ```
+*1 [おわら風の盆期間中乗降口変更のお知らせ](https://drive.google.com/file/d/1SGan6xUGg13DMGjsb2FfYMcnnEudhaM8)
+<br>
+*2 [A⑤](https://drive.google.com/file/d/1IGTchVmY0kkbtnhXxTkcltx0YfEYZV3E)
+<br>
+*3 [A⑥](https://drive.google.com/file/d/1AsoBLpBK7q3FeuWBSzFRWGI1eWSTTo2C)
+<br>
+*4 [おわら風の盆①前](https://drive.google.com/file/d/1KYCc8Nt0CLMiCc7Wtp5AobifHXhE2gNM)
+<br>
+*5 [おわら風の盆②後](https://drive.google.com/file/d/1Q-0BLfNt1RZaf2x0_o3dP7pQyERJNMu3/view?usp=sharing)
 ### 列車別備考案内
 ```
 ・泊駅で糸魚川方面行き列車と接続する列車は「泊駅で糸魚川方面行き列車に接続しております。」「This train connects to a train for Itoigawa at Tomari.」と表示される
@@ -98,7 +112,7 @@
 ・富山駅にある備考は高岡駅では2行目のスクロールに表示される（あいの風ライナー、停車駅など不明）
 ```
 *1 [Twitter](https://x.com/mknii233sg/status/1919059225721888858)
-## ワンマン列車
+### ワンマン列車
 ```
 ・2両の列車はワンマンであるときとそうでないときがあり、特に日中はワンマンであることが多く、3・4両はワンマンではない（ワンマン列車一覧は各ダイヤのmd参照）
 ・ワンマン表示は、521系、413系のみ表示される（キハ120には表示されず、キハ40で運転される1322Dレ・1326Dレ・1470Dレ（2026年3月14日改正ダイヤ）は不明）
@@ -262,6 +276,9 @@ EV側：D-3003Y-024-01
   １６年１１月製造
   日本信号株式会社
 ```
+[ESC側銘板](https://drive.google.com/file/d/1Ovtd9bCvFffMRwV6aYI54TMADIyeRWwf)
+<br>
+[EV側銘板](https://drive.google.com/file/d/1nlR1t9vhHngJXV-188BG57nltbnHQMiw)
 #### 2番線（すべて時計付）
 ```
 切欠側：D-3003Y-024-01
@@ -271,6 +288,7 @@ EV側：D-3003Y-024-01
   １６年１１月製造
   日本信号株式会社
 ```
+[銘板](https://drive.google.com/file/d/1Ovtd9bCvFffMRwV6aYI54TMADIyeRWwf/view?usp=sharing)
 #### 3番線（すべて時計なし）
 ```
 ESC側：D-3003Y-024-01
@@ -282,10 +300,13 @@ ESC側：D-3003Y-024-01
 EV側：D-3003Y-024-01
   発車標（ＬＥＤ）
   会社形式：ＦＤ４４０２Ａ
-  製造番号：Ｋ００００００２２
+  製造番号：Ｋ００００００２
   １６年１１月製造
   日本信号株式会社
 ```
+[ESC側銘板](https://drive.google.com/file/d/1Ovtd9bCvFffMRwV6aYI54TMADIyeRWwf)
+<br>
+[EV側銘板](https://drive.google.com/file/d/1mRKtNpyh_ikOxEMPXDgoXQu2_rxpuWE8)
 #### 4番線（すべて時計付）
 ```
 ESC側：D-3003Y-024-01
@@ -301,6 +322,9 @@ EV側：D-3003Y-024-01
   １８年０７月製造
   日本信号株式会社
 ```
+[ESC側銘板](https://drive.google.com/file/d/19yza0sVxEgzYHC9gyheGCwdT3iwNomcy)
+<br>
+[EV側銘板](https://drive.google.com/file/d/1_fBvCR4I7g8gmO7v4Pjhy4U73iqWEzfe)
 #### 5番線（すべて時計なし）
 ```
 ESC側：D-3003Y-024-01
@@ -316,6 +340,15 @@ EV側：D-3003Y-024-01?
   １８年０７月製造
   日本信号株式会社
 ```
+[ESC側銘板](https://drive.google.com/file/d/156Odl2XKiTlExzi7cZ2JxZBu9XuKfHIg)
+<br>
+[EV側銘板1](https://drive.google.com/file/d/1N6I6UONJ1d24MeZKIU9XquvdM0AkgEir)
+<br>
+[EV側銘板2](https://drive.google.com/file/d/1NdyG_OnX21RgxXi6bhL9e3ld-pl279hx)
+<br>
+[EV側銘板3](https://drive.google.com/file/d/1M7daegsRpi4YsUZjH7BAbRp6Jn_ihR3j)
+<br>
+[EV側銘板4](https://drive.google.com/file/d/1xBx-aW6Y5Bz8UrXzICW55Fll3F6YX8Yg)
 ### 高岡駅
 #### 3・4番線（D-3003Y-024-01）
 ```
@@ -325,6 +358,7 @@ EV側：D-3003Y-024-01?
 ※文字が消えて読めない※年※文字が消えて読めない※月製造
 日本信号株式会社
 ```
+[銘板](https://drive.google.com/file/d/1nN0ZtjvsI5qTgRjhKJnreT5pLrLohJz1)
 #### 5・6番線（D-3003Y-024-01）
 ```
 発車標（ＬＥＤ）
@@ -333,9 +367,22 @@ EV側：D-3003Y-024-01?
 2016?年09?月製造
 日本信号株式会社
 ```
+[銘板](https://drive.google.com/file/d/11vyKWY6gNN1QTRi2Mr_DN9GHSrWEqa0n)
 ## おまけ
-### 液晶
-### 放送
+### ディスプレイ表示器
+```
+・ディスプレイ表示器には3種類ある
+  ・富山駅中央口外側＆高岡駅改札口に置いてある方面別のもの*1
+  ・富山駅改札内＆のりかえ口＆待合室に置いてある全方面のもの*2
+  ・富山駅＆高岡駅以外に置いてあるもの
+  ・乗車位置変更があった際に置かれるもの*3
+```
+*1 [写真](https://drive.google.com/file/d/19AxYkxAIx_LLMAiNfQY-Oun4byYs_Mb1)
+<br>
+*2 [写真](https://drive.google.com/file/d/1_waL3lUhE37I7_YaSllhIe5BdbZnqL9o)
+<br>
+*3 [写真](https://drive.google.com/file/d/1iFJLWR6SQuqkN_aQw2YLkXZVMrbp_8ZU)
+### 案内放送
 ```
 2026年10月11日、あいの風サイクルトレイン(西)運行で、高岡駅5番線を当該編成(AK22)が通過する際、「貨物列車が通過します」と放送されていた気がする
 ```

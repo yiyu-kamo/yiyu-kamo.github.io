@@ -23,6 +23,18 @@
 [yoshi @1400yoshi](https://www.youtube.com/@1400yoshi/search?query=%E3%81%82%E3%81%84%E3%81%AE%E9%A2%A8)
 <br>
 [あいの風とやま鉄道 LED電光掲示板 発車標シミュレーター](https://r113.sakura.ne.jp/p/hasshahyo/ainokaze/index.html)
+<br>
+[yoshi @rk113 あいの風とやま鉄道高岡駅ホームのLED発車標、底面に日本信号の銘板付いてました。](https://x.com/rk113/status/844198195261460480)
+<br>
+[yoshi @rk113 気合入ってるあい風高岡駅ホームLED電光掲示板の表示再現する。このNECのフォント入ってるの西日本じゃなかなか珍しい。](https://x.com/rk113/status/844558142541225987)
+<br>
+[yoshi @rk113 あいの風とやま鉄道 高岡駅ホームLED発車標のドット絵一式再現しました。関東以外では珍しいNEC FontAvenue:BMF ゴシック体です。  #LED再現](https://x.com/rk113/status/844884671729061888)
+<br>
+[yoshi @rk113 あいの風とやま鉄道 改札LCD発車標での遅れ表示 英語表示小さすぎて見づらそう。なおホームLED発車標では遅れ表示出さない仕様だった。](https://x.com/rk113/status/1345327710789271553)
+<br>
+[yoshi @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
+<br>
+[yoshi @Shin_Tama7qw 越中八尾行の表示です。よければお使いください。](https://x.com/Shin_Tama7qw/status/1350165591827521536)
 ## LED表示器本体情報
 ```
 ・日本信号株式会社製D-3003Y-024-01
@@ -33,8 +45,11 @@
 ・表示器に書かれている線番号のフォントはFrutigerLTPro-Roman
 ```
 *1 [板倉東洋大前駅発車標 (日本信号24dotフルカラー) - (元)野田線担当のガラクタ置場](https://nodatan-5580.hatenadiary.com/entry/20240102/1704204420)
+<br>
 *2 [Twitter @Nakonobanninn](https://x.com/Nakonobanninn/status/1706177077005930518)
+<br>
 *3 [花崎駅発車標 (日本信号24dotフルカラー) - (元)野田線担当のガラクタ置場](https://nodatan-5580.hatenadiary.com/entry/20240728/1722175800)
+<br>
 *4 [Twitter @rk113](https://x.com/rk113/status/844884671729061888)
 ## 全体
 ```

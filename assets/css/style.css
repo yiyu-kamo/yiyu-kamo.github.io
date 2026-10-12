@@ -71,11 +71,11 @@ h1, h2, h3, h4 {
 }
 .header-top .catchcopy-left {
   flex: 1;
-  background-color: #008cd9;
+  background-color: #e9194b;
 }
 .header-top .catchcopy-right {
   flex: 1;
-  background-color: #019f40;
+  background-color: #00a496;
 }
 .header-bottom {
   background-color: #ffffff;

@@ -15,8 +15,7 @@ button { -webkit-appearance: none; appearance: none; border: none; background: n
   --color-h2: #f0a500;
   --color-h3: #a2c732;
   --color-h4: #4bbfbd;
-  --color-footer-top: #eceff1;
-  --color-footer-bottom: #afc0cc;
+  --color-footer: #afc0cc;
   --color-footer-line: #b0bec5;
   --color-footer-copy: #455a64;
   --font-base: "Host Grotesk", "M PLUS 1p", sans-serif;
@@ -68,14 +67,6 @@ h1, h2, h3, h4 {
   position: relative;
   display: flex;
   height: 47px;
-}
-.header-top .catchcopy-left {
-  flex: 1;
-  background-color: #008cd9;
-}
-.header-top .catchcopy-right {
-  flex: 1;
-  background-color: #019f40;
 }
 .header-bottom {
   background-color: #ffffff;
@@ -452,21 +443,6 @@ h1, h2, h3, h4 {
   flex-shrink: 0;
   clear: both;
 }
-.footer-top {
-  padding: 35px 0 40px;
-  background-color: var(--color-footer-top);
-}
-.footer-top .footer-info {
-  padding-bottom: 18px;
-  border-bottom: solid 1px var(--color-footer-line);
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-}
-.footer-top .address { color: #212121; }
-.footer-top .address p { font-size: 13px; font-weight: 500; line-height: 1.8; }
-.footer-top .address address { font-style: normal; font-size: 13px; line-height: 1.8; }
-.footer-top .address a { color: #212121; }
 .fnav-top {
   display: flex;
   flex-wrap: wrap;
@@ -487,13 +463,13 @@ h1, h2, h3, h4 {
 .fnav-top li:last-child::after { display: none; }
 .fnav-top li a { color: #212121; font-size: 13px; }
 .fnav-top li a:hover { text-decoration: underline; }
-.footer-bottom {
+.footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   padding: 25px 32px;
-  background-color: var(--color-footer-bottom);
+  background-color: var(--color-footer);
 }
 .fnav-bottom { display: flex; flex-wrap: wrap; }
 .fnav-bottom li { margin-right: 18px; }
@@ -509,15 +485,13 @@ h1, h2, h3, h4 {
   left: 0;
 }
 .fnav-bottom li a:hover { text-decoration: underline; }
-.footer-bottom .copyright {
+.footer .copyright {
   color: var(--color-footer-copy);
   font-size: 11px;
   letter-spacing: 0.08em;
 }
 @media (max-width: 768px) {
-  .footer-top { padding: 22px 4% 24px; }
-  .footer-top .footer-info { flex-direction: column; }
-  .footer-bottom { flex-direction: column; gap: 12px; padding: 18px 4% 28px; text-align: center; }
+  .footer { flex-direction: column; gap: 12px; padding: 18px 4% 28px; text-align: center; }
   .fnav-bottom { justify-content: center; }
   .subnav ul,
   .scroll-nav ul { flex-direction: column; }

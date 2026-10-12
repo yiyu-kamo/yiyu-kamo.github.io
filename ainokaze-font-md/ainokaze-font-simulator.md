@@ -17,6 +17,12 @@
 [ディスプレイ表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/1siE4h4J9GgEu4SPb_OKyCHo02Kj4GsI6)
 <br>
 [他資料 - Googleドライブ](https://drive.google.com/drive/folders/1zmWSriERvLzaNwO04_LNtJgirXqiodgI)
+### 他の方が作成・収集された資料リンク
+[あいの風とやま鉄道　高岡駅の自動放送　Takaoka Station Announcement, Ainokaze Toyama Railway](https://www.youtube.com/watch?v=iOGW9yapzIU)
+<br>
+[yoshi @1400yoshi](https://www.youtube.com/@1400yoshi/search?query=%E3%81%82%E3%81%84%E3%81%AE%E9%A2%A8)
+<br>
+[あいの風とやま鉄道 LED電光掲示板 発車標シミュレーター](https://r113.sakura.ne.jp/p/hasshahyo/ainokaze/index.html)
 ## LED表示器本体情報
 ```
 ・日本信号株式会社製D-3003Y-024-01
@@ -24,6 +30,7 @@
 ・フォントはNEC FontAvenue:BMF ゴシック体*4
 ・縦24px、全角の場合横24px、半角の場合大抵12px（半角英字は12pxではない）（圧縮表示の場合は縦横は24pxまたは12pxではない
 ・標準色は橙であり、複数色を用いて重要度を分ける際は低いものから緑→橙→赤となる
+・表示器に書かれている線番号のフォントはFrutigerLTPro-Roman
 ```
 *1 [板倉東洋大前駅発車標 (日本信号24dotフルカラー) - (元)野田線担当のガラクタ置場](https://nodatan-5580.hatenadiary.com/entry/20240102/1704204420)
 *2 [Twitter @Nakonobanninn](https://x.com/Nakonobanninn/status/1706177077005930518)
@@ -403,7 +410,7 @@ EV側：D-3003Y-024-01?
 ・スクロール（備考表示、お知らせ、ご案内）の色は種類によって違う
   ・1:赤、黄、黄緑（停車駅案内は黄）
   ・2:赤橙、橙、黄緑、白、水（停車駅案内は橙）
-  ・3:橙、黄緑、白（赤と停車駅案内は不明）
+  ・3:橙、黄、黄緑、白（赤と停車駅案内は不明）
 ・列車に遅れが生じた場合、時刻の下に遅れ約ｎ分と表示される
 ・お知らせ、ご案内のLED表示器との色の差が不明（橙だけで構成されているものの場合「【お知らせ】」などが橙、他が白という事例がある）
 ```

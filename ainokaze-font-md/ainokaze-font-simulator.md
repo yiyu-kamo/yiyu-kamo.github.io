@@ -14,9 +14,9 @@
 ## リンク
 [LED表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/1l4CaGINRfA5h-eQZhPeBIoBdWcFfkjXX)
 <br>
-[ディスプレイ表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/1siE4h4J9GgEu4SPb_OKyCHo02Kj4GsI6)
+[ディスプレイ表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/18uXmA7TRCP4PWr3ALuG4CNPAJlTnv4GS)
 <br>
-[他資料 - Googleドライブ](https://drive.google.com/drive/folders/1zmWSriERvLzaNwO04_LNtJgirXqiodgI)
+[他資料 - Googleドライブ](https://drive.google.com/drive/folders/1NP4knllkIYj3H5ceB1OSxzO5NYiFzb1o)
 ### 他の方が作成・収集された資料リンク
 [あいの風とやま鉄道　高岡駅の自動放送　Takaoka Station Announcement, Ainokaze Toyama Railway](https://www.youtube.com/watch?v=iOGW9yapzIU)
 <br>
@@ -32,9 +32,9 @@
 <br>
 [yoshi @rk113 あいの風とやま鉄道 改札LCD発車標での遅れ表示 英語表示小さすぎて見づらそう。なおホームLED発車標では遅れ表示出さない仕様だった。](https://x.com/rk113/status/1345327710789271553)
 <br>
-[yoshi @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
+[SANRYO @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
 <br>
-[yoshi @Shin_Tama7qw 越中八尾行の表示です。よければお使いください。](https://x.com/Shin_Tama7qw/status/1350165591827521536)
+[新玉名 @Shin_Tama7qw 越中八尾行の表示です。よければお使いください。](https://x.com/Shin_Tama7qw/status/1350165591827521536)
 ## LED表示器本体情報
 ```
 ・日本信号株式会社製D-3003Y-024-01
@@ -121,15 +121,15 @@
 ・高山線は足元の「高山線①～③」（2番線、①には止まらない）
 ・おわら風の盆の開催中は、富山駅1番線に入線する2両はA3~4、4両はA3~6、3番線に入線する2両はA3~4、4両はA2~5になるが*1*2*3、表示器では通常ダイヤのまま表示されており、毎度モニターで列車ごとに表示をしているほか、1&3番線に入線する高山線列車は全て越中八尾方端に停車し、乗車位置表示は足元の「おわら風の盆①前～②後」
 ```
-*1 [おわら風の盆期間中乗降口変更のお知らせ](https://drive.google.com/file/d/1SGan6xUGg13DMGjsb2FfYMcnnEudhaM8)
+*1 [おわら風の盆期間中乗降口変更のお知らせ](https://drive.google.com/file/d/1FyVVjmuLY5ourT203B2BvKtQQozgs4ZI)
 <br>
-*2 [A⑤](https://drive.google.com/file/d/1IGTchVmY0kkbtnhXxTkcltx0YfEYZV3E)
+*2 [A⑤](https://drive.google.com/file/d/1rbPcpygEdLYydeXRw-_VDZShx4C4a_Jn)
 <br>
-*3 [A⑥](https://drive.google.com/file/d/1AsoBLpBK7q3FeuWBSzFRWGI1eWSTTo2C)
+*3 [A⑥](https://drive.google.com/file/d/1gufeKB2zX6SCfXVQVfk82WYZft0xmnoz)
 <br>
-*4 [おわら風の盆①前](https://drive.google.com/file/d/1KYCc8Nt0CLMiCc7Wtp5AobifHXhE2gNM)
+*4 [おわら風の盆①前](https://drive.google.com/file/d/13PehHWnTmeFq36blUww7i1Lgu8oLqMzl)
 <br>
-*5 [おわら風の盆②後](https://drive.google.com/file/d/1Q-0BLfNt1RZaf2x0_o3dP7pQyERJNMu3/view?usp=sharing)
+*5 [おわら風の盆②後](https://drive.google.com/file/d/13PehHWnTmeFq36blUww7i1Lgu8oLqMzl)
 ### 列車別備考案内
 ```
 ・泊駅で糸魚川方面行き列車と接続する列車は「泊駅で糸魚川方面行き列車に接続しております。」「This train connects to a train for Itoigawa at Tomari.」と表示される
@@ -152,8 +152,8 @@
 ・列車接近通過案内が表示されたら備考スクロール（先発含む）は一度キャンセルされ、改めてキャンセル時の言語でスクロールが改めて開始される
 ・富山駅にある備考は高岡駅では2行目のスクロールに表示される（あいの風ライナー、停車駅など不明）
 ```
-*1 [Twitter @mknii233sg](https://x.com/mknii233sg/status/1919059225721888858)
-*2 [Twitter @GTO_Favoristor](https://x.com/GTO_Favoristor/status/1132594549765730304)
+*1 [Twitter nkmr @mknii233sg ](https://x.com/mknii233sg/status/1919059225721888858)
+*2 [Twitter SANRYO @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
 ### ワンマン列車
 ```
 ・2両の列車はワンマンであるときとそうでないときがあり、特に日中はワンマンであることが多く、3・4両はワンマンではない（ワンマン列車一覧は各ダイヤのmd参照）
@@ -319,9 +319,9 @@ EV側：D-3003Y-024-01
   １６年１１月製造
   日本信号株式会社
 ```
-[ESC側銘板](https://drive.google.com/file/d/1Ovtd9bCvFffMRwV6aYI54TMADIyeRWwf)
+[ESC側銘板](https://drive.google.com/file/d/1BX2CkBxnbSxDScGFvsLbTJGuBAigAcaP)
 <br>
-[EV側銘板](https://drive.google.com/file/d/1nlR1t9vhHngJXV-188BG57nltbnHQMiw)
+[EV側銘板](https://drive.google.com/file/d/1N2doOzvcTeYfMSaDFCgSKzNd-knY0j-1)
 #### 2番線（すべて時計付）
 ```
 切欠側：D-3003Y-024-01
@@ -331,7 +331,7 @@ EV側：D-3003Y-024-01
   １６年１１月製造
   日本信号株式会社
 ```
-[銘板](https://drive.google.com/file/d/1Ovtd9bCvFffMRwV6aYI54TMADIyeRWwf/view?usp=sharing)
+[銘板](https://drive.google.com/file/d/1XjmawiIeXSc3v8EW7MWcJ5DoFMmJd8mT)
 #### 3番線（すべて時計なし）
 ```
 ESC側：D-3003Y-024-01
@@ -347,9 +347,9 @@ EV側：D-3003Y-024-01
   １６年１１月製造
   日本信号株式会社
 ```
-[ESC側銘板](https://drive.google.com/file/d/1Ovtd9bCvFffMRwV6aYI54TMADIyeRWwf)
+[ESC側銘板](https://drive.google.com/file/d/1wEtKJ7zs6zsTAGmeLTIjnM7QL_1bV9Ew)
 <br>
-[EV側銘板](https://drive.google.com/file/d/1mRKtNpyh_ikOxEMPXDgoXQu2_rxpuWE8)
+[EV側銘板](https://drive.google.com/file/d/19_MbUrhVpVm3lZDNtIyA4m2ZCbtOhjDZ)
 #### 4番線（すべて時計付）
 ```
 ESC側：D-3003Y-024-01
@@ -365,9 +365,9 @@ EV側：D-3003Y-024-01
   １８年０７月製造
   日本信号株式会社
 ```
-[ESC側銘板](https://drive.google.com/file/d/19yza0sVxEgzYHC9gyheGCwdT3iwNomcy)
+[ESC側銘板](https://drive.google.com/file/d/1iC_tX0JPFud4_koIhz40L3qbtLie5eHR)
 <br>
-[EV側銘板](https://drive.google.com/file/d/1_fBvCR4I7g8gmO7v4Pjhy4U73iqWEzfe)
+[EV側銘板](https://drive.google.com/file/d/1DighmtQfgsfe1QJBp-vlGc1yKVfV_Qb3)
 #### 5番線（すべて時計なし）
 ```
 ESC側：D-3003Y-024-01
@@ -383,15 +383,15 @@ EV側：D-3003Y-024-01?
   １８年０７月製造
   日本信号株式会社
 ```
-[ESC側銘板](https://drive.google.com/file/d/156Odl2XKiTlExzi7cZ2JxZBu9XuKfHIg)
+[ESC側銘板](https://drive.google.com/file/d/1xTVGbtCoKKCxr_ckGG28l_9jl53Tp6Uz)
 <br>
-[EV側銘板1](https://drive.google.com/file/d/1N6I6UONJ1d24MeZKIU9XquvdM0AkgEir)
+[EV側銘板1](https://drive.google.com/file/d/1fdrNgtAMb5dYz9HCM2hYCA6ePjTvF0kr)
 <br>
-[EV側銘板2](https://drive.google.com/file/d/1NdyG_OnX21RgxXi6bhL9e3ld-pl279hx)
+[EV側銘板2](https://drive.google.com/file/d/1odMDD5-2iL4tKu4fmNFZsq7rLrv9yjE_)
 <br>
-[EV側銘板3](https://drive.google.com/file/d/1M7daegsRpi4YsUZjH7BAbRp6Jn_ihR3j)
+[EV側銘板3](https://drive.google.com/file/d/1D2jz3C-gl9ElXDJaZMnVHix6aL-6RUHD)
 <br>
-[EV側銘板4](https://drive.google.com/file/d/1xBx-aW6Y5Bz8UrXzICW55Fll3F6YX8Yg)
+[EV側銘板4](https://drive.google.com/file/d/1uyehmNbag95kieOQHcFq_9W1asGpCsFW)
 ### 高岡駅
 #### 3・4番線（D-3003Y-024-01）
 ```
@@ -401,7 +401,7 @@ EV側：D-3003Y-024-01?
 ※文字が消えて読めない※年※文字が消えて読めない※月製造
 日本信号株式会社
 ```
-[銘板](https://drive.google.com/file/d/1nN0ZtjvsI5qTgRjhKJnreT5pLrLohJz1)
+[銘板](https://drive.google.com/file/d/124ywCdAVb3mGjsKzdigdQ0hXsRnM9Zql)
 #### 5・6番線（D-3003Y-024-01）
 ```
 発車標（ＬＥＤ）
@@ -410,7 +410,7 @@ EV側：D-3003Y-024-01?
 2016年09月製造
 日本信号株式会社
 ```
-[銘板](https://drive.google.com/file/d/11vyKWY6gNN1QTRi2Mr_DN9GHSrWEqa0n)
+[銘板](https://drive.google.com/file/d/1VLk9s20lhik-it2g-8MnJvujM85rQGoM)
 ## おまけ
 ### ディスプレイ表示器
 ```
@@ -428,12 +428,13 @@ EV側：D-3003Y-024-01?
   ・3:橙、黄、黄緑、白（赤と停車駅案内は不明）
 ・列車に遅れが生じた場合、時刻の下に遅れ約ｎ分と表示される
 ・お知らせ、ご案内のLED表示器との色の差が不明（橙だけで構成されているものの場合「【お知らせ】」などが橙、他が白という事例がある）
+・フォントは新ゴM（ゴナではない）
 ```
-*1 [写真](https://drive.google.com/file/d/19AxYkxAIx_LLMAiNfQY-Oun4byYs_Mb1)
+*1 [写真](https://drive.google.com/file/d/1g_EKAeYP9X59ZCIoyoglw9RAdFE0UAvS)
 <br>
-*2 [写真](https://drive.google.com/file/d/1_waL3lUhE37I7_YaSllhIe5BdbZnqL9o)
+*2 [写真](https://drive.google.com/file/d/1fEuX65pW7UachWfeHDP8IyPZoR-yMdgt)
 <br>
-*3 [写真](https://drive.google.com/file/d/1iFJLWR6SQuqkN_aQw2YLkXZVMrbp_8ZU)
+*3 [写真](https://drive.google.com/file/d/1akKWnoU7faHRal2uwzVsmuRnO1p_FdGT)
 ### 案内放送
 ```
 2026年10月11日、あいの風サイクルトレイン(西)運行で、高岡駅5番線を当該編成(AK22)が通過する際、「貨物列車が通過します」と放送されていた気がする

@@ -437,6 +437,8 @@ EV側：D-3003Y-024-01?
 ・お知らせ、ご案内のLED表示器との色の差が不明（橙だけで構成されているものの場合「【お知らせ】」などが橙、他が白という事例がある）
 ・フォントは新ゴM（ゴナではない）
 ```
+[「案内モニタ」の設置」](https://ainokaze.co.jp/wp-content/uploads/2017/03/86a101c28718c843f58b73a231e0a332-1.pdf)
+<br>
 *1 [写真](https://drive.google.com/file/d/1g_EKAeYP9X59ZCIoyoglw9RAdFE0UAvS)
 <br>
 *2 [写真](https://drive.google.com/file/d/1fEuX65pW7UachWfeHDP8IyPZoR-yMdgt)

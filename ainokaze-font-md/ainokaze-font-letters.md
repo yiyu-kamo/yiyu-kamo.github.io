@@ -58,6 +58,8 @@ This train stops at Hayahoshi, Etchu-Yatsuo, Inotani, Hidafurukawa, Takayama, Ge
 まとめたシートはこちら：[シート](https://docs.google.com/spreadsheets/d/1VqaebPrq5Ku_kIac9nZbJRZLeps8YtDRjC4Pa4j6sgo/)
 ## 文字の追加
 「こんなスクロール見つけた」「こんな停車駅あった」「こんな表示ある」といったものがありましたら、その表示を**LED一つ一つまできちんと見えるように**撮影し、[hosoiri_cg_](https://x.com/hosoiri_cg_)にDMでお送りください
+<br>
+「試運転」の表示があるそうです（[Twitter SANRYO @GTO_Favoristor 2019/08/08 クモヤ443 あいの風とやま鉄道線等検測 皆様撮影お疲れ様でした～ 情報下さった方、ありがとうございます！](https://x.com/GTO_Favoristor/status/1159372349398900736/photo/3)）
 ## 今後の計画
 自由に変更可能な発車案内シミュレーターなんて作れたらいいけどなーなんて思ってます
 <br>

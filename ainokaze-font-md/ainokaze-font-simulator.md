@@ -136,6 +136,7 @@
 ・泊駅で糸魚川方面行き列車と接続する列車は「泊駅で糸魚川方面行き列車に接続しております。」「This train connects to a train for Itoigawa at Tomari.」と表示される
 ・高岡駅を発車する列車で、富山駅で泊行き列車に接続する列車は「富山駅で泊行き列車に接続しております。」「This train connects to a train for Tomari at Toyama.」と表示される
 ・列車接続案内は、その列車の遅れが3分以上になると表示されなくなる
+・列車接続案内は、実際に接続する列車でも接続案内が表示されない場合があり、駅ごとにも違いがある（553Mの場合、富山駅で接続案内があるが、高岡駅では接続案内がない）
 ・高岡駅の3番線から発車する富山行き列車で、5&6番線で表示する際は「次の富山方面の列車は、３番線から出発します。」「The train of the next Toyama area departs from platform 3.」
 ・富山駅を発車するあいの風ライナー金沢行きは、「停車駅は、小杉、高岡、石動、金沢です。」「This train stops at Kosugi,Takaoka,Isurugi,Kanazawa.」と表示される
 ・富山駅を発車するあいの風ライナー泊行きは、「停車駅は、滑川、魚津、黒部、入善、泊です。」「This train stops at Namerikawa, Uozu, Kurobe, Nyuzen, Tomari.」と表示される

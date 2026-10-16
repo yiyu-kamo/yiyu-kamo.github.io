@@ -17,7 +17,7 @@
 ・使用しているフォントは、サイズ8のMS UI Gothicなのは同じです
 ・Win7版のPaintフォントを使用しており、yoshi223様が使用されているWinXP版と同じです（Win11版では文字間隔幅が違う）
 ・文字はyoshi223様の場合24*24の上端から8px、下端から7pxですが、上端（または左端）を揃えるようにしています
-・文字行間は通常より1px縮めています
+・文字行間は通常より2px縮めています
 ```
 ## リンク
 [LED表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/1l4CaGINRfA5h-eQZhPeBIoBdWcFfkjXX)

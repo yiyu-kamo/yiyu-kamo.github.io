@@ -15,10 +15,11 @@
 ```
 主にyoshi223の鉄道館様との違いについてです
 ・使用しているフォントは、サイズ8のMS UI Gothicなのは同じです
-・Win7版のPaintフォントを使用しており、yoshi223様が使用されているWinXP版（と予想される）と同じです（Win11版では文字間隔幅が違う）
+・Win7版のPaintフォントを使用しており、yoshi223様が使用されているWinXP版（と予想される）*1と同じです（Win11版では文字間隔幅が違う）
 ・文字はyoshi223様の場合24*24の上端から8px、下端から7pxですが、上端（または左端）を揃えるようにしています
 ・文字行間は通常より2px縮めています
 ```
+*1 [YouTube yoshi @1400yoshi LED発車標ドット絵再現作業 2016/6-2017/5](https://www.youtube.com/watch?v=Wri1Czfxud4)
 ## リンク
 [LED表示器資料 - Googleドライブ](https://drive.google.com/drive/folders/1l4CaGINRfA5h-eQZhPeBIoBdWcFfkjXX)
 <br>
@@ -28,21 +29,21 @@
 ### 他の方が作成・収集された資料リンク
 [あいの風とやま鉄道　高岡駅の自動放送　Takaoka Station Announcement, Ainokaze Toyama Railway](https://www.youtube.com/watch?v=iOGW9yapzIU)
 <br>
-[yoshi @1400yoshi](https://www.youtube.com/@1400yoshi/search?query=%E3%81%82%E3%81%84%E3%81%AE%E9%A2%A8)
+[YouTube yoshi @1400yoshi](https://www.youtube.com/@1400yoshi/search?query=%E3%81%82%E3%81%84%E3%81%AE%E9%A2%A8)
 <br>
 [あいの風とやま鉄道 LED電光掲示板 発車標シミュレーター](https://r113.sakura.ne.jp/p/hasshahyo/ainokaze/index.html)
 <br>
-[yoshi @rk113 あいの風とやま鉄道高岡駅ホームのLED発車標、底面に日本信号の銘板付いてました。](https://x.com/rk113/status/844198195261460480)
+[Twitter yoshi @rk113 あいの風とやま鉄道高岡駅ホームのLED発車標、底面に日本信号の銘板付いてました。](https://x.com/rk113/status/844198195261460480)
 <br>
-[yoshi @rk113 気合入ってるあい風高岡駅ホームLED電光掲示板の表示再現する。このNECのフォント入ってるの西日本じゃなかなか珍しい。](https://x.com/rk113/status/844558142541225987)
+[Twitter yoshi @rk113 気合入ってるあい風高岡駅ホームLED電光掲示板の表示再現する。このNECのフォント入ってるの西日本じゃなかなか珍しい。](https://x.com/rk113/status/844558142541225987)
 <br>
-[yoshi @rk113 あいの風とやま鉄道 高岡駅ホームLED発車標のドット絵一式再現しました。関東以外では珍しいNEC FontAvenue:BMF ゴシック体です。  #LED再現](https://x.com/rk113/status/844884671729061888)
+[Twitter yoshi @rk113 あいの風とやま鉄道 高岡駅ホームLED発車標のドット絵一式再現しました。関東以外では珍しいNEC FontAvenue:BMF ゴシック体です。  #LED再現](https://x.com/rk113/status/844884671729061888)
 <br>
-[yoshi @rk113 あいの風とやま鉄道 改札LCD発車標での遅れ表示 英語表示小さすぎて見づらそう。なおホームLED発車標では遅れ表示出さない仕様だった。](https://x.com/rk113/status/1345327710789271553)
+[Twitter yoshi @rk113 あいの風とやま鉄道 改札LCD発車標での遅れ表示 英語表示小さすぎて見づらそう。なおホームLED発車標では遅れ表示出さない仕様だった。](https://x.com/rk113/status/1345327710789271553)
 <br>
-[SANRYO @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
+[Twitter SANRYO @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
 <br>
-[新玉名 @Shin_Tama7qw 越中八尾行の表示です。よければお使いください。](https://x.com/Shin_Tama7qw/status/1350165591827521536)
+[Twitter 新玉名 @Shin_Tama7qw 越中八尾行の表示です。よければお使いください。](https://x.com/Shin_Tama7qw/status/1350165591827521536)
 ## LED表示器本体情報
 ```
 ・日本信号株式会社製D-3003Y-024-01

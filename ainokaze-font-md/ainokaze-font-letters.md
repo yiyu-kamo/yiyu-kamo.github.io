@@ -128,9 +128,6 @@ This train stops at Hayahoshi, Etchu-Yatsuo, Inotani, Hidafurukawa, Takayama, Ge
 <br>
 泉北
 ```
-セリフ
-x
-
 50
 停備催優元充先光入全八内円写出刃分切列利券刻前力加動募勤化北区協危参取古可台号
 〇　　　　　　〇　　〇　　　　　〇　〇　〇　〇　　　　　　〇　　　　　〇　　〇

@@ -150,7 +150,7 @@ This train stops at Hayahoshi, Etchu-Yatsuo, Inotani, Hidafurukawa, Takayama, Ge
 
 70
 火煙燃物特状猪理生用田番症発的皆盆目県真着知石
-　　　〇〇　〇　〇　　　　〇　　　　　　　〇
+　　　〇〇　〇　〇　　　　〇　　　　〇　　〇
 
 78
 確社禁福秀積端第等糸約紙素索細終続網線緩置美羽

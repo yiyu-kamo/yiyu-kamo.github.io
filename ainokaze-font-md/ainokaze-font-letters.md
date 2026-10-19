@@ -1,4 +1,4 @@
-<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/11e1a75f-c17b-4e6e-be9a-b37cc3ba3acb" /># あいの風とやま鉄道発車標フォント文字一覧
+# あいの風とやま鉄道発車標フォント文字一覧
 このMarkDownはあいの風とやま鉄道の発車標で使用されている文字の一覧です
 <br>
 このMarkDownファイルは情報が古い可能性があります

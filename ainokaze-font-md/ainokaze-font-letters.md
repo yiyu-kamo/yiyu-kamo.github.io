@@ -21,7 +21,7 @@
 それぞれの幅が分かった方がいましたら、[hosoiri_cg_](https://x.com/hosoiri_cg_)にDMでお教えください
 ### 外字でない保証がない文字（Unicode順・「外字であるか外字でないか確認できていないもの」と同じ内容、スクロールで表示されていないもの）
 ```
-ABCFHIKNPTabcdeghiklmnoprstuvwyz~々ワ井体前団急松福貨送過４
+-0123456789:ABCFHIKNPTabcdeghiklmnoprstuvwyz~々ワ井体前団急松福貨送過４
 ```
 ### 実際に確認できていないにも関わらず表に入れているもの
 ```

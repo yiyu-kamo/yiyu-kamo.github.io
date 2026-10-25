@@ -157,16 +157,17 @@
 ・特急ひだ号（速星通過）は、「停車駅は、越中八尾、猪谷、飛騨古川、高山、下呂、美濃太田、岐阜、名古屋です。」「This train stops at Etchu-Yatsuo, Inotani, Hidafurukawa, Takayama, Gero, Mino-Ota, Gifu, Nagoya.」と表示される
 ・停車駅案内は一部の駅名には略字を使用し（例：「飛騨古川」の「騨」）、英語表示は駅名のマクロン記号は使用しない（例：「Etchu-Yatsuo」の「u」）
 ・2行目の列車の停車駅日スクロールが普通スクロールとして流れる不具合があり、これは1行目の列車では発生しない（2026/9/18に不具合を確認し、2026/10/11に直っていることを確認）
-・当駅止め、回送、通過、貨物は、「この列車は、ご乗車できません。」「This train is not in service.」と表示される
-・団体にも何かしら表示されるそうだが、撮影できていない*1
+・当駅止め、回送、通過、貨物は、「この列車は、ご乗車できません。」「This train is not in service.」と表示される（団体も同じ可能性*1
+・団体にも何かしら表示されるそうだが、撮影できていない*2
 ・観光列車は、「ご利用には事前のご予約が必要です。お乗り間違いにご注意ください。」「Reserved tickets are required.Please be careful not to board the wrong train.」と表示される
-・最終列車は、「○○行き最終列車です。」「This is the last train for ○○.」と表示されるそうだが、撮影できていない*2
+・最終列車は、「○○行き最終列車です。」「This is the last train for ○○.」と表示されるそうだが、撮影できていない*3
 ・2行目の列車の備考のスクロールが流れ切らなかった場合、そのスクロールの最初から改めて流す（日英別）
 ・列車接近通過案内が表示されたら備考スクロール（先発含む）は一度キャンセルされ、改めてキャンセル時の言語でスクロールが改めて開始される
 ・富山駅にある備考は高岡駅では2行目のスクロールに表示される（あいの風ライナー、停車駅など不明）
 ```
-*1 [Twitter nkmr @mknii233sg ](https://x.com/mknii233sg/status/1919059225721888858)
-*2 [Twitter SANRYO @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
+*1 [YouTube スエマサ鉄道&自動車 @suemasa683【413系AM05編成】あいの風とやま鉄道線　団体列車の旅　(普段はありえない場所に停車、ありえない駅を通過⁉)](https://www.youtube.com/watch?v=UMu18zmz2_0)
+*2 [Twitter nkmr @mknii233sg](https://x.com/mknii233sg/status/1919059225721888858)
+*3 [Twitter SANRYO @GTO_Favoristor 需要があるか分からないけど高岡駅の発車標の写真をば](https://x.com/GTO_Favoristor/status/1132594549765730304)
 ### ワンマン列車
 ```
 ・2両の列車はワンマンであるときとそうでないときがあり、特に日中はワンマンであることが多く、3・4両はワンマンではない（ワンマン列車一覧は各ダイヤのmd参照）

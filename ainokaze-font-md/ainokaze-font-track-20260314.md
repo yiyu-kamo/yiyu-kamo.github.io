@@ -260,9 +260,10 @@
 ## 高岡駅
 ### 備考
 ```
-ベル・モンターニュ・エ・メール((臨時)快速べるもんた)の運行日・ダイヤ等詳しい情報は[JRおでかけネット](https://www.jr-odekake.net/railroad/kankoutrain/berumonta/#page-link-operation)をご確認ください
+ベル・モンターニュ・エ・メール((臨時)快速べるもんた)の運行日・ダイヤ等詳しい情報はJRおでかけネット*1をご確認ください
 乗車位置は4両はA1~4、3両はB1~3、2両はA1~2だが、2両かつ3番線富山方面行きに限ってA2~3となる
 ```
+*1 [JRおでかけネット](https://www.jr-odekake.net/railroad/kankoutrain/berumonta/#page-link-operation)
 ### 1番線（城端線）
 ```
 0609 城端 不明 なし
